@@ -2,7 +2,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Software+Engineer;React%2FReact-Native+Developer;AI+Enthusiast;Obsessed+Techcie;Ready+to+Collab%3F+Hit+me+up" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&width=435&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Always+learning+new+things" alt="Typing SVG"/>
 </p>
 <hr>
 
@@ -43,11 +43,18 @@
 <a href="https://github.com/Abba-F-Daniel1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Abba-F-Daniel1">
 </a>
-<a href="https://github.com/Abba-F-Daniel1?tab=followers"><img src="https://img.shields.io/github/followers/Abba-F-Daniel1?label=Followers&​amp;style=social" alt="GitHub Badge"></a>
- <br>
+<a href="https://github.com/Abba-F-Daniel1?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abba-F-Daniel1&query=followers&label=Followers&style=social&logo=github" alt="GitHub Badge"></a>
+<br>
  <hr>
  
  ### Stats
-<p align="justify"><img src="https://github-readme-stats-six-iota-72.vercel.app/api/top-langs/?username=Abba-F-Daniel1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Abba-F-Daniel1's GitHub Stats"/> <img src="https://github-readme-stats-six-iota-72.vercel.app/api?username=Abba-F-Daniel1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Abba-F-Daniel1's GitHub Stats" /> <br /><img src="https://streak-stats.demolab.com/?user=Abba-F-Daniel1&theme=react&hide_border=true" alt="Abba-F-Daniel1's GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-six-iota-72.vercel.app/api/top-langs/?username=Abba-F-Daniel1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Abba-F-Daniel1's GitHub Stats"/>
+  <img src="https://github-readme-stats-six-iota-72.vercel.app/api?username=Abba-F-Daniel1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Abba-F-Daniel1's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Abba-F-Daniel1&theme=react&hide_border=true" alt="Abba-F-Daniel1's GitHub Stats"/>
+</p>
+<p align="justify">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abba-F-Daniel1&theme=react-dark&hide_border=true" alt="Abba-F-Daniel1's activity graph"/>
+</p>
 <br/>
 <hr>
